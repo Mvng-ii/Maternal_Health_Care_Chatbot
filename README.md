@@ -1,7 +1,3 @@
-Here is a merged version of the two README files:
-
----
-
 # Maternal Health Care Chatbot 🏥👶
 
 ## Project Overview
